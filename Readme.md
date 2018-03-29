@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктория Ханагуа](https://up.htmlacademy.ru/ecmascript/4/user/5574).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
